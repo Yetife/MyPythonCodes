@@ -24,3 +24,4 @@ else:
 
 # >>> iter({'foo': 1, 'bar': 2, 'baz': 3})       # Dict
 # <dict_keyiterator object at 0x036DD990>
+# dictionary has keys and values
