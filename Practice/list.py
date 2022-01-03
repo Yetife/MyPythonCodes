@@ -8,3 +8,5 @@ days[2] = "January"
 print ("Day two is", days[2])
 del days[2];
 print ("Day two is", days[2])
+
+print (days.join(","))
