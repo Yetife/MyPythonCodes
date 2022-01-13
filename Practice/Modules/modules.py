@@ -7,9 +7,8 @@ from ecommerce import shipping
 
 shipping.calc_shipping()
 calc_shipping()
-
-print(lbs_to_kg(155)) 
+print(lbs_to_kg(155))
 
 print(converters.kg_to_lbs(70))
 
-print(find_max([5,10,20,30,50]))
+print(find_max([5, 10, 20, 30, 50]))
